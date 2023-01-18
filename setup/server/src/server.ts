@@ -1,1 +1,1 @@
-console.log("osssi")
+console.log("ossssi")
